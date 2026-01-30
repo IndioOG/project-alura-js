@@ -9,7 +9,6 @@
     --cor-secundaria: #C2373F;
     --neutro: #F9F9F9;
     --preto: #131730;
-    --cor-rodape: #DBE4EF;
     --fonte-titulo: "Krona One", sans-serif;
     --fonte-texto: 'Numans', sans-serif;
     --degrade-azul: linear-gradient(180deg, #000000 0%, #26327F 100%);
@@ -153,14 +152,3 @@ ul {
 }
 
 
-.rodape {
-    margin-top: 14rem;
-    text-align: center;
-}
-
-.rodape-texto {
-    font-family: var(--fonte-texto);
-    font-weight: 400;
-    font-size: 14px;
-    color: var(--cor-rodape);
-}
